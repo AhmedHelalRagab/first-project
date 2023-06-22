@@ -1,0 +1,24 @@
+.allContent{
+  margin: 2rem auto;
+  padding: 1rem;
+  width: 90%;
+  max-width: 40rem;
+}
+div label{
+  display: block;
+  margin-bottom: 5px;
+  font-weight: bold;
+
+}
+
+div input{
+    width: 99%;
+    padding: 5px;
+}
+div input:focus{
+  outline: none;
+}
+
+.button{
+  margin-top: 10px;
+}
